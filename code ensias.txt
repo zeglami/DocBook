@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/sch/docbook.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title></title>
+    </info>
+    <sect1>
+        <title>Présentation</title> 
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="ensias.jpg"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+        <para>            
+            <emphasis>L’École nationale supérieure d’informatique et d’analyse des systèmes
+            (ENSIAS)</emphasis> est l'une des grandes écoles d'ingénieurs marocaines rattachée à l'université
+            Mohammed V de Rabat. Les étudiants et diplômés sont appelés les Ensiastes. </para> 
+        <para>Aujourd'hui, le challenge pour cette école, tout en maintenant une formation de
+            qualité au niveau technique, consiste à :            
+        </para>          
+        <itemizedlist>
+            <listitem><para>participer au développement du pays en formant davantage d'ingénieurs dans le domaine des technologies de l'information ;</para></listitem>
+            <listitem><para>améliorer la formation existante en donnant à l'étudiant des compétences en management et en techniques de communication ;</para></listitem>
+            <listitem><para>diversifier la formation existante en proposant de nouvelles filières dans les métiers les plus porteurs ;</para></listitem>
+            <listitem><para>faire de la recherche-développement au sein de l'école un vecteur de croissance et un levier pour l'amélioration de la qualité de l'enseignement ;</para></listitem>
+            <listitem><para>renforcer la formation continue, la formation qualifiante et la reconversion des diplômés ;</para></listitem>
+            <listitem><para>créer un espace entreprise au sein de l'école pour favoriser les échanges avec le milieu économique et faire de cet espace une structure d'accueil, d'hébergement, d'accompagnement et d'appui aux projets de création d'entreprises et de la valorisation des résultats de la recherche par l'incubation.</para></listitem>
+        </itemizedlist>
+        <para>Étant au centre de toutes ces activités, l'étudiant est appelé à participer activement au rayonnement de l'école et à développer ses aptitudes en s'inscrivant dans les activités organisées par les différents clubs des étudiants de l'ENSIAS.</para>
+    </sect1> 
+    <sect1>
+        <title>Missions</title>
+        <para>
+            La mission principale de <emphasis role="bold">L'ENSIAS</emphasis>est la formation d'ingénieurs d'État en informatique en trois années. <emphasis role="bold">L'ENSIAS</emphasis> assure également le développement d'actions de coopération et de recherche au niveau national et international, la formation de formateurs en informatique, et l'organisation d'actions de formation continue.
+        </para>
+        <para>
+            Régulièrement classée parmi les meilleures écoles d'ingénieurs marocaines, <emphasis role="bold">L'ENSIAS</emphasis> conforte depuis de nombreuses années sa position de leader national pour les formations en technologies de l'information.
+        </para>
+    </sect1> 
+    <sect1>
+        <title>Objectifs</title> 
+        <para>
+            <emphasis role="bold">L'ENSIAS</emphasis>, qui a fêté, en 2012, son 20ème anniversaire, est appelée à multiplier les efforts pour former des femmes et des hommes capables d'intégrer le monde socio-économique et de soutien pour le développement des technologies de l'information et de communication dans notre société. Elle doit être à l'avant garde dans ce domaine et jouer un rôle d'expertise, de veille technologique, de réflexion, de support et de conseil pour notre Université, pour le secteur public, et pour les opérateurs économiques du Maroc en général et de la région en particulier.
+        </para>
+        <para>
+            Pour atteindre ces objectifs, l'ENSIAS est appelée à doubler d'efforts au niveau de :
+        </para> 
+        <itemizedlist>
+            <listitem><para>l'offre de formation,</para></listitem>
+            <listitem><para>la recherche scientifique,</para></listitem>
+            <listitem><para>l'ouverture internationale,</para></listitem>
+            <listitem><para>les relations avec les entreprises,</para></listitem>
+            <listitem><para>l'entrepreneuriat et l'innovation.</para></listitem>
+        </itemizedlist>
+    </sect1> 
+    <sect1>
+        <title>Admission</title>
+        <para><emphasis>L'ENSIAS</emphasis> recrute principalement sur le Concours national commun à l'issue des Classes Préparatoires, par ailleurs des élèves sont admis sur titres en première année ou en deuxième année.</para>
+        <table frame="all">
+            <title>Nombre de places</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*" colsep="1" rowsep="1"/>
+                <colspec colname="c2" colnum="2" colwidth="1*" rowsep="1" colsep="1"/>                 
+                <tbody>
+                    <row>
+                        <entry>Première année</entry>
+                        <entry>
+                            <para>Concours national commun</para> 
+                            <itemizedlist>
+                                <listitem><para>MP 196 places</para></listitem>
+                                <listitem><para>TSI 34 places</para></listitem>
+                                <listitem><para>PSI 19 places</para></listitem>                                 
+                            </itemizedlist>
+                        </entry>                      
+                    </row>
+                    <row>
+                        <entry>Deuxième</entry>
+                        <entry>
+                            <para>Admissions sur titres</para>
+                            <itemizedlist>
+                                <listitem><para>L3, Master M1</para></listitem>                                                                 
+                            </itemizedlist>
+                        </entry>                        
+                    </row>                   
+                </tbody>
+            </tgroup>
+        </table>
+    </sect1>
+    <sect1>
+        <title>Options à l'Ensias</title>
+        <para>Six spécialisations sont offertes aux élèves ingénieurs de la 3e année. Elles émanent des 6 départements de l'ENSIAS. Les spécialisations sont :</para>
+        <orderedlist>
+            <listitem><para>Génie logiciel(GL)</para></listitem>
+            <listitem><para>E-Management and Business Intelligence(eMBI)</para></listitem>
+            <listitem><para>Systèmes embarqués et mobiles(SEM)</para></listitem>    
+            <listitem><para>Sécurité des systèmes d'information(SSI)</para></listitem>
+            <listitem><para>Ingénierie du Web et Informatique Mobile (IWIM)</para></listitem>
+            <listitem><para>Ingénierie de la logistique(IL)</para></listitem>
+        </orderedlist> 
+        <para><emphasis role="bold">L’ENSIAS délivre également trois diplômes de master : </emphasis></para> 
+        <orderedlist>
+            <listitem><para>Master Recherche en Sciences des données et Big Data,</para></listitem>
+            <listitem><para>Master spécialisé en Internet des objets et services mobiles,</para></listitem>
+            <listitem><para>Master spécialisé en Ingénierie pour la finance et la gestion des risques,</para></listitem>    
+            <listitem><para>Master spécialisé en Biotechnologie médicale option Bioinformatique,</para></listitem>
+            <listitem><para>Master spécialisé en Systèmes embarqués pour l'automobile.</para></listitem>            
+        </orderedlist>
+    </sect1>
+    <sect1>
+        <title>Partenaires internationaux</title>
+        <para>L'ENSIAS compte plusieurs partenaires internationaux, en Europe et en Amérique du Nord, dans les pays suivants, ainsi qu'avec des multinationales:</para> 
+        <itemizedlist>
+            <listitem> 
+                <para>France</para>                 
+                <itemizedlist>
+                    <listitem><para>ENSIMAG (double diplomation)</para></listitem>   
+                    <listitem><para>ISIMA (double diplomation)</para></listitem>
+                    <listitem><para>ENSEEIHT</para></listitem>
+                    <listitem><para>ENSEIRB</para></listitem>
+                    <listitem><para>Télécom Saint-Étienne</para></listitem>
+                    <listitem><para>Mines Saint-Etienne</para></listitem>
+                    <listitem><para>ENSIEE</para></listitem>
+                </itemizedlist>
+            </listitem>
+        </itemizedlist>
+        <itemizedlist>
+            <listitem> 
+                <para>Belgique</para>                 
+                <itemizedlist>
+                    <listitem><para>ULB</para></listitem>                     
+                </itemizedlist>
+            </listitem>
+        </itemizedlist>
+        <itemizedlist>
+            <listitem> 
+                <para>Italie</para>                 
+                <itemizedlist>
+                    <listitem><para>Politechnico di Torino</para></listitem>                     
+                </itemizedlist>
+            </listitem>
+        </itemizedlist>
+        <itemizedlist>
+            <listitem> 
+                <para>Suède</para>                 
+                <itemizedlist>
+                    <listitem><para>Université de Stockholm</para></listitem>                     
+                </itemizedlist>
+            </listitem>
+        </itemizedlist>
+        <itemizedlist>
+            <listitem> 
+                <para>Canada</para>                 
+                <itemizedlist>
+                    <listitem><para>Faculté de génie, Université de Sherbrooke</para></listitem>
+                    <listitem><para>École de technologie supérieure de Montréal</para></listitem>
+                    <listitem><para>École polytechnique de Montréal</para></listitem>
+                    <listitem><para>Université de Montréal (Département d'informatique et de recherche opérationnelle)</para></listitem>
+                </itemizedlist>
+            </listitem>
+        </itemizedlist> 
+        <itemizedlist>
+            <listitem> 
+                <para>Allemagne</para>                 
+                <itemizedlist>
+                    <listitem><para>Université de Bonn Rhein Sieg</para></listitem>                     
+                </itemizedlist>
+            </listitem>
+        </itemizedlist>
+        <itemizedlist>
+            <listitem> 
+                <para>États-Unis</para>                 
+                <itemizedlist>
+                    <listitem><para>Université de Houston</para></listitem>
+                    <listitem><para>Université d'Oklahoma City</para></listitem>
+                </itemizedlist>
+            </listitem>
+        </itemizedlist>
+                
+    </sect1> 
+    <sect1>
+        <title>Page Web Officiel Ensias</title>
+        <itemizedlist>
+            <listitem>
+                <para><link>"http://ensias.um5.ac.ma/"</link></para>                 
+            </listitem>           
+        </itemizedlist>
+        
+    </sect1>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</article>
